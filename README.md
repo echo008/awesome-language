@@ -13,6 +13,13 @@
 - [Vue](https://vuejs.org/) - Vue.js - The Progressive JavaScript Framework.
 - [微信小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/) - The Mini Program comes with a simple and efficient app development framework and a wide range of components and APIs to help developers develop services with a native app experience in Weixin.
 
+## Front-End
+- [weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
+
+## Back-End
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - About
+后端架构师技术图谱
+
 ## Golang
 - [go-awesome](https://github.com/shockerli/go-awesome#readme) - Go 语言优秀资源整理，为项目落地加速
 
