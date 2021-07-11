@@ -1,7 +1,6 @@
 ## Back-End
 
-- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - About
-后端架构师技术图谱
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - About 后端架构师技术图谱
 - [awesome-architecture](https://github.com/toutiaoio/awesome-architecture) - 架构师技术图谱，助你早日成为架构师
 
 ## Golang

@@ -6,8 +6,7 @@
 - [Alibaba](https://github.com/alibaba) - 阿里巴巴
 - [Alibaba Cloud](https://github.com/aliyun) - 阿里云 More Than Just Cloud
 - [Baidu](https://github.com/baidu) - 百度
-- [Baidu EFE team](https://github.com/ecomfe) - [ecomfe](http://efe.baidu.com/
-)
+- [Baidu EFE team](https://github.com/ecomfe) - [ecomfe](http://efe.baidu.com/)
 - [DiDi](https://github.com/didi) - [滴滴出行](https://didi.github.io/)
 - [Douban Inc.](https://github.com/douban) - 豆瓣
 - [NetEase](https://github.com/netease) - 网易

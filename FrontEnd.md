@@ -6,7 +6,6 @@
 
 - [前端精读](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 
-
 ## 微信小程序
 
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp#readme) - 微信小程序开发资源汇总
