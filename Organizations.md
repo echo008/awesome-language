@@ -16,5 +16,4 @@
 - [Xiaomi](https://github.com/xiaomi) - 小米
 - [Mi OpenSource](https://github.com/MiCode) - 小米开源
 
-
 ## Other

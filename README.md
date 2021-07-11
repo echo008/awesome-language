@@ -7,24 +7,12 @@
 - [awesome-vue](https://github.com/vuejs/awesome-vue#readme) - A curated list of awesome things related to Vue.js
 
 ## Website
+
 - [Golang](https://golang.google.cn/) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 - [Nodejs](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [React](https://reactjs.org/) - React – A JavaScript library for building user interfaces
 - [Vue](https://vuejs.org/) - Vue.js - The Progressive JavaScript Framework.
 - [微信小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/) - The Mini Program comes with a simple and efficient app development framework and a wide range of components and APIs to help developers develop services with a native app experience in Weixin.
-
-## Front-End
-- [weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
-
-## Back-End
-- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - About
-后端架构师技术图谱
-
-## Golang
-- [go-awesome](https://github.com/shockerli/go-awesome#readme) - Go 语言优秀资源整理，为项目落地加速
-
-## 微信小程序
-- [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp#readme) - 微信小程序开发资源汇总
 
 ## Topics
 
