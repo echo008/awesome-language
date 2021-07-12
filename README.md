@@ -25,6 +25,7 @@
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet#readme) - A list of cool features of Git and GitHub.
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks#readme) - Manually curated collection of resources for frontend web developers.
 - [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools#readme) - The best design tools and plugins for everything
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript#readme) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 
 ## Website
 
